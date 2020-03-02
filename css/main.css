@@ -1,7 +1,7 @@
-div{
+.container{
     background-color: #ff0000;
 }
-    div > h1> p{
+    .container > h1> p{
     color:#fff;
     font-size:18px;
     text-transform: uppercase;
