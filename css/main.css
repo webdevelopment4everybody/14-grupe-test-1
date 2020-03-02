@@ -1,5 +1,9 @@
 .container{
     background-color: #ff0000;
+    width:600px;
+    height: 600px;
+    margin:0 calc(50% - 300px);
+    min-height: 100px;
 }
     .container > h1> p{
     color:#fff;
